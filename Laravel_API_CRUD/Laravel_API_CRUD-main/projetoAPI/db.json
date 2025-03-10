@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "body": "TESTE"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "body": "TESTE"
+    },
+    {
+      "title": "PAGAR CONTAS",
+      "body": "DEVEMOS PAGAR AS CONTAS NO DIA 05",
+      "id": "5a19"
+    },
+    {
+      "id": "4d79",
+      "title": "Estudando Laravel",
+      "body": "Importando estudar laravel"
+    },
+    {
+      "title": "teste333",
+      "body": "ddddd.....",
+      "id": "6bc6"
+    },
+    {
+      "id": "1504",
+      "title": "TESTANDO LARAVEL API",
+      "body": "ESTE POST É UM TESTE DE UMA API"
+    },
+    {
+      "id": "0937",
+      "title": "meu teste",
+      "body": "testeeee meu"
+    },
+    {
+      "title": "LAVAR O CARRO",
+      "body": "LAVAR O CARRO NO LAVAJATO TERÇA-FEIRA",
+      "id": "daf6"
+    },
+    {
+      "id": "9427",
+      "title": "ooeoeo",
+      "body": "oowwowo"
+    },
+    {
+      "id": "5173",
+      "title": "ooeoeo",
+      "body": "oowwowo"
+    },
+    {
+      "id": "6069",
+      "title": "another title",
+      "body": "TESTE EDITADO"
+    },
+    {
+      "id": "0272",
+      "title": "another title",
+      "body": "TESTE EDITADO"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
